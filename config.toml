@@ -1,3 +1,3 @@
-baseURL="http://localhost:1313/"
+baseURL="https://jaro-m.github.io/tech-radar-hugo/"
 languageCode = "en-us"
 title = "Tech radar"

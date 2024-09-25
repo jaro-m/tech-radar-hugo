@@ -5,5 +5,5 @@
 log/
 target/
 
-resources/
-public/
+# resources/
+# public/
